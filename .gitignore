@@ -9,4 +9,9 @@ implementations/*/data
 implementations/*/images
 implementations/*/saved_models
 
+.idea/
+implementations/*/lightning_images
+implementations/*/lightning_logs
+implementations/*/MNIST
+
 __pycache__
